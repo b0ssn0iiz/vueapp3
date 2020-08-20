@@ -3,6 +3,9 @@
 <v-app>
   <v-navigation-drawer app>
     <p>navigation drawer</p>
+     <v-btn large color="primary">ฟิตข่าว</v-btn> <br>
+     
+     <v-btn large color="error">Messenger</v-btn>
   </v-navigation-drawer>
 
   <v-app-bar app>
